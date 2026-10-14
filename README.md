@@ -2,7 +2,7 @@
 
 A React + Vite tic-tac-toe game.
 
-**Live demo:** https://piyush1shende2.github.io/tic-tac-toe/
+**Live demo:** https://piyush1shende2.github.io/tic-tak-toe/
 
 ## Run locally
 
