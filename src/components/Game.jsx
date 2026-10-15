@@ -425,8 +425,8 @@ export default function Game({ config, scores, onResult, onRematch, onMenu }) {
               ⏱ {players[0].name} {fmt(times[0])} · {players[1].name} {fmt(times[1])}
             </p>
             <div className="banner-btns">
-              <button className="btn" onClick={onRematch}>Rematch</button>
-              <button className="btn ghost" onClick={onMenu}>Menu</button>
+                <button className="btn" onClick={onRematch}>Rematch</button>
+                <button className="btn ghost" onClick={onMenu}>🏠 Home</button>
             </div>
           </div>
         </div>

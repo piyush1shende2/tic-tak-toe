@@ -26,7 +26,7 @@ export default function App() {
   if (!config) return <Menu onStart={start} />;
 
   return (
-    <Game
+        <Game
       key={round}
       config={config}
       scores={scores}
