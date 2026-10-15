@@ -426,7 +426,7 @@ export default function Game({ config, scores, onResult, onRematch, onMenu }) {
             </p>
             <div className="banner-btns">
                 <button className="btn" onClick={onRematch}>Rematch</button>
-                <button className="btn ghost" onClick={onMenu}>🏠 Home</button>
+                <button className="btn" onClick={onMenu}>🏠 Home</button>
             </div>
           </div>
         </div>
